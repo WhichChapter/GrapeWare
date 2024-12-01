@@ -1,1 +1,1 @@
-{"AnnouncementText":"Voidware is better then render! Switch now at https://discord.gg/jWNnRydt","Announcement":false,"Disabled":false,"AnnouncementDuration":10}
+{"AnnouncementText":"GrapeWare is better then render!","Announcement":true,"Disabled":false,"AnnouncementDuration":10}
